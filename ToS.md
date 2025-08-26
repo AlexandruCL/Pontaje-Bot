@@ -1,5 +1,5 @@
 # Terms of Service
-Last updated: [YYYY-MM-DD]
+Last updated: [2025-08-26]
 
 1) Operator
 - Operator: Cristea Laur-Alexandru
